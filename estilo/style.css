@@ -10,8 +10,17 @@ body{
 
 main{
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+h1{
+    font-size: 30px;
+    color: blue;
+}
+
+img.lado{
+    float:right;
 }
